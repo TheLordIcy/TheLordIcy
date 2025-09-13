@@ -34,16 +34,6 @@
 
 ###
 
-<p align="left">Some Guys That I like</p>
-
-###
-
-<div align="left">
-  <img src="https://profile-counter.glitch.me/thelordicy/count.svg?"  />
-</div>
-
-###
-
 <p align="left">Some Places For You To Contact me 😘😉</p>
 
 ###

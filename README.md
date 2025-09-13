@@ -1,13 +1,13 @@
 # Hey 👋, I'm Ayushmaan  
 
-🌌 Curious mind | 🎮 Game Dev Learner | 💻 Web & App Explorer  
+🌌 Curious mind | 🎮 Game Dev Learner | 💻 Web Explorer  
 
 ---
 
 ## 🚀 About Me
 - 🔭 Currently working on **Unity projects & web dev experiments**  
-- 🎨 Building **FIGX Originals** (clothing brand site) & **Arctic Arcade** (portfolio)  
-- 🌱 Learning **C, Python, and game mechanics in Unity**  
+- 🎨 Building **Arctic Arcade** (portfolio)  
+- 🌱 Learning **Python, and game mechanics in Unity**  
 - 🎧 Music tinkerer on **BandLab**  
 - 📍 Based in **Delhi, India**  
 
@@ -22,8 +22,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thelordicy&show_icons=true&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelordicy&layout=compact&theme=tokyonight" height="180em" />
 </p>
 
 ---

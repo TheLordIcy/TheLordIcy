@@ -1,48 +1,40 @@
-<h1 align="center">Hi There! 👋</h1>
+# Hey 👋, I'm Ayushmaan  
 
-###
+🌌 Curious mind | 🎮 Game Dev Learner | 💻 Web & App Explorer  
 
-<div align="center">
-  <img height="249" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*aPfdrf5Y14OzFUXgEwB9TA.jpeg"  />
-</div>
+---
 
-###
+## 🚀 About Me
+- 🔭 Currently working on **Unity projects & web dev experiments**  
+- 🎨 Building **FIGX Originals** (clothing brand site) & **Arctic Arcade** (portfolio)  
+- 🌱 Learning **C, Python, and game mechanics in Unity**  
+- 🎧 Music tinkerer on **BandLab**  
+- 📍 Based in **Delhi, India**  
 
-<h3 align="left">I am Icy That Cool Tech Guy everyone Admires</h3>
+---
 
-###
+## 🛠️ Tech & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,cs,py,html,css,js,react,tailwind,nodejs,git,github,vscode,figma" />
+</p>
 
-<h2 align="center">My Skills 👇</h2>
+---
 
-###
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="180em" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+---
 
-###
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
-<p align="left">Some Places For You To Contact me 😘😉</p>
+---
 
-###
-
-<div align="left">
-  <a href="https://instagram.com/TheLord.Icy" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.gg/7QgNN7dVzS" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
+⭐ *"Keep building, keep shipping — the best portfolio is the one you create yourself."*  
